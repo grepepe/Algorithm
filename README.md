@@ -4,3 +4,4 @@
 * [백준9093. 단어 뒤집기](https://www.acmicpc.net/problem/9093)
 * [백준9012. 괄호](https://www.acmicpc.net/problem/9012)
 * [백준1874. 스택 수열](https://www.acmicpc.net/problem/1874)
+* [백준1406. 에디터](https://www.acmicpc.net/problem/1406)
