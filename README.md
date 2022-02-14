@@ -7,3 +7,4 @@
 * [백준1406. 에디터](https://www.acmicpc.net/problem/1406)
 * [백준10845. 큐](https://www.acmicpc.net/problem/10845)
 * [백준1158. 요세푸스 문제](https://www.acmicpc.net/problem/1158)
+* [백준10866. 덱](https://www.acmicpc.net/problem/10866)
