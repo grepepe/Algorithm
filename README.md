@@ -10,3 +10,4 @@
 * [백준10866. 덱](https://www.acmicpc.net/problem/10866)
 * [백준17413. 단어 뒤집기2](https://www.acmicpc.net/problem/17413)
 * [백준10799. 쇠막대기](https://www.acmicpc.net/problem/10799)
+* [백준17298. 오큰수](https://www.acmicpc.net/problem/17298)
