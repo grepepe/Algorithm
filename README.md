@@ -12,3 +12,5 @@
 * [백준10799. 쇠막대기](https://www.acmicpc.net/problem/10799)
 * [백준17298. 오큰수](https://www.acmicpc.net/problem/17298)
 * [백준17299. 오등큰수](https://www.acmicpc.net/problem/17299)
+### 수학
+* [백준10430. 나머지](https://www.acmicpc.net/problem/10430)
