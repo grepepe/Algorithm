@@ -19,3 +19,4 @@
 * [백준1978. 소수 찾기](https://www.acmicpc.net/problem/1978)
 * [백준1929. 소수 구하기](https://www.acmicpc.net/problem/1929)
 * [백준6588. 골드바흐의 추측](https://www.acmicpc.net/problem/6588)
+* [백준10872. 팩토리얼](https://www.acmicpc.net/problem/10872)
