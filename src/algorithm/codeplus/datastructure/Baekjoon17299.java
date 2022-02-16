@@ -14,7 +14,7 @@ public class Baekjoon17299 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
         int n = Integer.parseInt(br.readLine());
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         int[] seq = new int[n];
         HashMap<Integer, Integer> map = new HashMap<>();
         Stack<Integer> stk = new Stack<>();

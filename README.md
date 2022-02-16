@@ -14,3 +14,4 @@
 * [백준17299. 오등큰수](https://www.acmicpc.net/problem/17299)
 ### 수학
 * [백준10430. 나머지](https://www.acmicpc.net/problem/10430)
+* [백준2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)

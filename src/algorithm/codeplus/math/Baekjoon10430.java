@@ -11,7 +11,7 @@ public class Baekjoon10430 {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         int[] params = new int[3];
 
         for (int i = 0; i < params.length; i++) {
