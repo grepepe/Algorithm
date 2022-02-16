@@ -22,3 +22,4 @@
 * [백준10872. 팩토리얼](https://www.acmicpc.net/problem/10872)
 * [백준1676. 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)
 * [백준2004. 조합 0의 개수](https://www.acmicpc.net/problem/2004)
+* [백준9613. GCD 합](https://www.acmicpc.net/problem/9613)
