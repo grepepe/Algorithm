@@ -26,3 +26,4 @@
 * [백준17087. 숨바꼭질 6](https://www.acmicpc.net/problem/17087)
 * [백준1373. 2진수 8진수](https://www.acmicpc.net/problem/1373)
 * [백준1212. 8진수 2진수](https://www.acmicpc.net/problem/1212)
+* [백준2089. -2진수](https://www.acmicpc.net/problem/2089)
