@@ -13,7 +13,7 @@ public class Baekjoon1676 {
         int ans = 0;
 
         while (num > 0) {
-            num = num/5;
+            num /= 5;
             ans += num;
         }
 
