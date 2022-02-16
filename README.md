@@ -17,3 +17,4 @@
 * [백준2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
 * [백준1934. 최소공배수](https://www.acmicpc.net/problem/1934)
 * [백준1978. 소수 찾기](https://www.acmicpc.net/problem/1978)
+* [백준1929. 소수 구하기](https://www.acmicpc.net/problem/1929)
