@@ -36,3 +36,4 @@
 * [백준11052. 카드 구매하기](https://www.acmicpc.net/problem/11052)
 * [백준16194. 카드 구매하기 2](https://www.acmicpc.net/problem/16194)
 * [백준15990. 1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)
+* [백준10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
