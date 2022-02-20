@@ -41,3 +41,4 @@
 * [백준11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 * [백준14002. 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
 * [백준1912. 연속합](https://www.acmicpc.net/problem/1912)
+* [백준1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)
