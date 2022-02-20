@@ -39,3 +39,4 @@
 * [백준10844. 쉬운 계단 수](https://www.acmicpc.net/problem/10844)
 * [백준2193. 이친수](https://www.acmicpc.net/problem/2193)
 * [백준11053. 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+* [백준14002. 가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
