@@ -44,3 +44,4 @@
 * [백준1699. 제곱수의 합](https://www.acmicpc.net/problem/1699)
 * [백준2225. 합분해](https://www.acmicpc.net/problem/2225)
 * [백준15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
+* [백준1149. RGB거리](https://www.acmicpc.net/problem/1149)
