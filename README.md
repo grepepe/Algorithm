@@ -45,3 +45,4 @@
 * [백준2225. 합분해](https://www.acmicpc.net/problem/2225)
 * [백준15988. 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
 * [백준1149. RGB거리](https://www.acmicpc.net/problem/1149)
+* [백준1309. 동물원](https://www.acmicpc.net/problem/1309)
