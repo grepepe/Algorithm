@@ -47,3 +47,4 @@
 * [백준1149. RGB거리](https://www.acmicpc.net/problem/1149)
 * [백준1309. 동물원](https://www.acmicpc.net/problem/1309)
 * [백준11057. 오르막수](https://www.acmicpc.net/problem/11057)
+* [백준9465. 스티커](https://www.acmicpc.net/problem/9465)
