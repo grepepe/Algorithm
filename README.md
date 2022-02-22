@@ -49,3 +49,4 @@
 * [백준11057. 오르막수](https://www.acmicpc.net/problem/11057)
 * [백준9465. 스티커](https://www.acmicpc.net/problem/9465)
 * [백준2156. 포도주 시식](https://www.acmicpc.net/problem/2156)
+* [백준1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)
