@@ -50,3 +50,4 @@
 * [백준9465. 스티커](https://www.acmicpc.net/problem/9465)
 * [백준2156. 포도주 시식](https://www.acmicpc.net/problem/2156)
 * [백준1932. 정수 삼각형](https://www.acmicpc.net/problem/1932)
+* [백준11055. 가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)
