@@ -53,3 +53,4 @@
 * [백준11055. 가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)
 * [백준11722. 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
 * [백준11054. 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+* [백준13398. 연속합 2](https://www.acmicpc.net/problem/13398)
