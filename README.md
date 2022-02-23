@@ -12,6 +12,7 @@
 * [백준10799. 쇠막대기](https://www.acmicpc.net/problem/10799)
 * [백준17298. 오큰수](https://www.acmicpc.net/problem/17298)
 * [백준17299. 오등큰수](https://www.acmicpc.net/problem/17299)
+* [백준1935. 후위 표기식2](https://www.acmicpc.net/problem/1935)
 ### 수학
 * [백준10430. 나머지](https://www.acmicpc.net/problem/10430)
 * [백준2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
