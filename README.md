@@ -55,3 +55,4 @@
 * [백준11054. 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 * [백준13398. 연속합 2](https://www.acmicpc.net/problem/13398)
 * [백준2133. 타일 채우기](https://www.acmicpc.net/problem/2133)
+* [백준17404. RGB거리 2](https://www.acmicpc.net/problem/17404)
