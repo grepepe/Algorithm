@@ -16,6 +16,7 @@
 * [백준1918. 후위 표기식](https://www.acmicpc.net/problem/1918)
 * [백준10808. 알파벳 개수](https://www.acmicpc.net/problem/10808)
 * [백준10809. 알파벳 찾기](https://www.acmicpc.net/problem/10809)
+* [백준10820. 문자열 분석](https://www.acmicpc.net/problem/10820)
 ### 수학
 * [백준10430. 나머지](https://www.acmicpc.net/problem/10430)
 * [백준2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
