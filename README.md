@@ -38,6 +38,7 @@
 * [백준2089. -2진수](https://www.acmicpc.net/problem/2089)
 * [백준17103. 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
 * [백준11005. 진법 변환 2](https://www.acmicpc.net/problem/11005)
+* [백준2745. 진법 변환](https://www.acmicpc.net/problem/2745)
 ### 다이나믹 프로그래밍
 * [백준1463. 1로 만들기](https://www.acmicpc.net/problem/1463)
 * [백준11726. 2×n 타일링](https://www.acmicpc.net/problem/11726)
