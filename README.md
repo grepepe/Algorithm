@@ -20,6 +20,7 @@
 * [백준2743. 단어 길이 재기](https://www.acmicpc.net/problem/2743)
 * [백준11655. ROT13](https://www.acmicpc.net/problem/11655)
 * [백준10824. 네 수](https://www.acmicpc.net/problem/10824)
+* [백준11656. 접미사 배열](https://www.acmicpc.net/problem/11656)
 ### 수학
 * [백준10430. 나머지](https://www.acmicpc.net/problem/10430)
 * [백준2609. 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
