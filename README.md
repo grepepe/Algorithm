@@ -40,6 +40,7 @@
 * [백준11005. 진법 변환 2](https://www.acmicpc.net/problem/11005)
 * [백준2745. 진법 변환](https://www.acmicpc.net/problem/2745)
 * [백준11576. Base Conversion](https://www.acmicpc.net/problem/11576)
+* [백준11653. 소인수분해](https://www.acmicpc.net/problem/11653)
 ### 다이나믹 프로그래밍
 * [백준1463. 1로 만들기](https://www.acmicpc.net/problem/1463)
 * [백준11726. 2×n 타일링](https://www.acmicpc.net/problem/11726)
