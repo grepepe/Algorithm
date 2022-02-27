@@ -76,3 +76,4 @@
 * [백준1107. 리모컨](https://www.acmicpc.net/problem/1107)
 * [백준14500. 테트로미노](https://www.acmicpc.net/problem/14500)
 * [백준6064. 카잉 달력](https://www.acmicpc.net/problem/6064)
+* [백준1748. 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
