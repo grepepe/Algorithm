@@ -77,6 +77,7 @@
 * [백준14500. 테트로미노](https://www.acmicpc.net/problem/14500)
 * [백준6064. 카잉 달력](https://www.acmicpc.net/problem/6064)
 * [백준1748. 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
+##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
 * [백준15651. N과 M (3)](https://www.acmicpc.net/problem/15651)
@@ -89,3 +90,5 @@
 * [백준15664. N과 M (10)](https://www.acmicpc.net/problem/15664)
 * [백준15665. N과 M (11)](https://www.acmicpc.net/problem/15665)
 * [백준15666. N과 M (12)](https://www.acmicpc.net/problem/15666)
+##### 순열 
+* [백준10972. 다음 순열](https://www.acmicpc.net/problem/10972)

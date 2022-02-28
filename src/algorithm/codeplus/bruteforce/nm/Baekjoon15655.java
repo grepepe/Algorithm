@@ -1,26 +1,26 @@
-package algorithm.codeplus.bruteforce;
+package algorithm.codeplus.bruteforce.nm;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Baekjoon15657 {
+public class Baekjoon15655 {
 
-    private static int[] tmp;
     private static final StringBuilder sb = new StringBuilder();
+    private static int[] tmp;
 
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int[] input = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+        int[] nm = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
         int[] arr = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 
-        tmp = new int[input[1]];
+        tmp = new int[nm[1]];
 
         Arrays.sort(arr);
 
-        select(input[0], input[1], arr, 0, 0);
+        select(nm[0], nm[1], arr, 0, 0);
 
         sb.deleteCharAt(sb.length() - 1);
         System.out.print(sb);
@@ -36,7 +36,7 @@ public class Baekjoon15657 {
         }
         for (int i = current; i < n; i++) {
             tmp[cnt] = arr[i];
-            select(n, m, arr, i, cnt+1);
+            select(n, m, arr, i + 1, cnt + 1);
         }
     }
 }
