@@ -83,3 +83,4 @@
 * [백준15652. N과 M (4)](https://www.acmicpc.net/problem/15652)
 * [백준15654. N과 M (5)](https://www.acmicpc.net/problem/15654)
 * [백준15655. N과 M (6)](https://www.acmicpc.net/problem/15655)
+* [백준15656. N과 M (7)](https://www.acmicpc.net/problem/15656)
