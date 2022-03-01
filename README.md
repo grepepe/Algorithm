@@ -92,3 +92,4 @@
 * [백준15666. N과 M (12)](https://www.acmicpc.net/problem/15666)
 ##### 순열 
 * [백준10972. 다음 순열](https://www.acmicpc.net/problem/10972)
+* [백준10973. 이전 순열](https://www.acmicpc.net/problem/10973)
