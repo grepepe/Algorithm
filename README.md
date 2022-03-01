@@ -94,3 +94,4 @@
 * [백준10972. 다음 순열](https://www.acmicpc.net/problem/10972)
 * [백준10973. 이전 순열](https://www.acmicpc.net/problem/10973)
 * [백준10974. 모든 순열](https://www.acmicpc.net/problem/10974)
+* [백준10819. 차이를 최대로](https://www.acmicpc.net/problem/10819)
