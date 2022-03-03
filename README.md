@@ -100,3 +100,4 @@
 ##### 재귀
 * [백준1759. 암호 만들기](https://www.acmicpc.net/problem/1759)
 * [백준14501. 퇴사](https://www.acmicpc.net/problem/14501)
+* [백준14889. 스타트와 링크](https://www.acmicpc.net/problem/14889)
