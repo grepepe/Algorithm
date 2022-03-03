@@ -99,3 +99,4 @@
 * [백준6603. 로또](https://www.acmicpc.net/problem/6603)
 ##### 재귀
 * [백준1759. 암호 만들기](https://www.acmicpc.net/problem/1759)
+* [백준14501. 퇴사](https://www.acmicpc.net/problem/14501)
