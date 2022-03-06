@@ -106,3 +106,4 @@
 * [백준1248. 맞춰봐](https://www.acmicpc.net/problem/1248)
 ##### 비트마스크
 * [백준11723. 집합](https://www.acmicpc.net/problem/11723)
+* [백준1182. 부분수열의 합](https://www.acmicpc.net/problem/1182)
