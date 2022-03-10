@@ -115,3 +115,4 @@
 * [백준1707. 이분 그래프](https://www.acmicpc.net/problem/1707)
 * [백준2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)
 * [백준4963. 섬의 개수](https://www.acmicpc.net/problem/4963)
+* [백준2178. 미로 탐색](https://www.acmicpc.net/problem/2178)
