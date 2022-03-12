@@ -117,3 +117,4 @@
 * [백준4963. 섬의 개수](https://www.acmicpc.net/problem/4963)
 * [백준2178. 미로 탐색](https://www.acmicpc.net/problem/2178)
 * [백준7576. 토마토](https://www.acmicpc.net/problem/7576)
+* [백준7562. 나이트의 이동](https://www.acmicpc.net/problem/7562)
