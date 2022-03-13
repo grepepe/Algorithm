@@ -118,3 +118,4 @@
 * [백준2178. 미로 탐색](https://www.acmicpc.net/problem/2178)
 * [백준7576. 토마토](https://www.acmicpc.net/problem/7576)
 * [백준7562. 나이트의 이동](https://www.acmicpc.net/problem/7562)
+* [백준16929. Two Dots](https://www.acmicpc.net/problem/16929)
