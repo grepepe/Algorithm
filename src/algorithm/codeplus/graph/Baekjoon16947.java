@@ -9,16 +9,18 @@ public class Baekjoon16947 {
 
     private static int n;
     private static final List<List<Integer>> adj = new ArrayList<>();
-    private static boolean[] cycleStation;
+    private static boolean[] visit;
     private static int start;
     private static boolean isFound = false;
+    private static int[] ans;
 
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
         n = Integer.parseInt(br.readLine());
-        cycleStation = new boolean[n + 1];
+        visit = new boolean[n + 1];
+        ans = new int[n + 1];
         String input;
 
         for (int i = 0; i <= n; i++) {
@@ -47,33 +49,30 @@ public class Baekjoon16947 {
             }
         }
 
+        bfs();
+
         for (int i = 1; i <= n; i++) {
-            if (cycleStation[i]) {
-                sb.append(0).append(" ");
-            } else {
-                sb.append(bfs(i)).append(" ");
-            }
+            sb.append(ans[i]).append(" ");
         }
 
         sb.deleteCharAt(sb.length() - 1);
         System.out.print(sb);
     }
 
-    private static int bfs(int idx) {
+    private static void bfs() {
 
         Queue<int[]> q = new LinkedList<>();
-        boolean[] visit = new boolean[n + 1];
 
-        q.offer(new int[]{idx, 0});
-        visit[idx] = true;
+        for (int i = 1; i <= n; i++) {
+            if (visit[i]) {
+                q.offer(new int[]{i, 0});
+            }
+        }
 
         while (!q.isEmpty()) {
 
             int[] tmp = q.poll();
-
-            if (cycleStation[tmp[0]]) {
-                return tmp[1];
-            }
+            ans[tmp[0]] = tmp[1];
 
             for (int a : adj.get(tmp[0])) {
                 if (!visit[a]) {
@@ -83,23 +82,22 @@ public class Baekjoon16947 {
             }
         }
 
-        return 0;
     }
 
     private static void dfs(int idx, int cnt) {
         if (cnt > 2 && idx == start) {
-            cycleStation[idx] = true;
+            visit[idx] = true;
             isFound = true;
             return;
         }
         for (int a : adj.get(idx)) {
-            if (!cycleStation[a]) {
-                cycleStation[a] = true;
+            if (!visit[a]) {
+                visit[a] = true;
                 dfs(a, cnt + 1);
                 if (isFound) {
                     return;
                 }
-                cycleStation[a] = false;
+                visit[a] = false;
             }
         }
     }
