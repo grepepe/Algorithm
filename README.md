@@ -122,3 +122,4 @@
 * [백준16947. 서울 지하철 2호선](https://www.acmicpc.net/problem/16947)
 * [백준16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)
 * [백준16964. DFS 스페셜 저지](https://www.acmicpc.net/problem/16964)
+* [백준2146. 다리 만들기](https://www.acmicpc.net/problem/2146)
