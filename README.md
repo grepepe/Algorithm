@@ -123,3 +123,5 @@
 * [백준16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)
 * [백준16964. DFS 스페셜 저지](https://www.acmicpc.net/problem/16964)
 * [백준2146. 다리 만들기](https://www.acmicpc.net/problem/2146)
+### BFS
+* [백준1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)
