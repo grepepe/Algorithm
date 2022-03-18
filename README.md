@@ -126,3 +126,4 @@
 ### BFS
 * [백준1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)
 * [백준13913. 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
+* [백준14226. 이모티콘](https://www.acmicpc.net/problem/14226)
