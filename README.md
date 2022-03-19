@@ -131,3 +131,4 @@
 * [백준1261. 알고스팟](https://www.acmicpc.net/problem/1261)
 ### 트리
 * [백준1991. 트리 순회](https://www.acmicpc.net/problem/1991)
+* [백준2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
