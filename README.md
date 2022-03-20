@@ -132,3 +132,4 @@
 ### 트리
 * [백준1991. 트리 순회](https://www.acmicpc.net/problem/1991)
 * [백준2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
+* [백준11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
