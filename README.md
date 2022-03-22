@@ -98,6 +98,7 @@
 * [백준10971. 외판원 순회 2](https://www.acmicpc.net/problem/10971)
 * [백준6603. 로또](https://www.acmicpc.net/problem/6603)
 * [백준1339. 단어 수학](https://www.acmicpc.net/problem/1339)
+* [백준14888. 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 ##### 재귀
 * [백준1759. 암호 만들기](https://www.acmicpc.net/problem/1759)
 * [백준14501. 퇴사](https://www.acmicpc.net/problem/14501)
