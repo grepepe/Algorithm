@@ -111,6 +111,7 @@
 * [백준16197. 두 동전](https://www.acmicpc.net/problem/16197)
 * [백준16198. 에너지 모으기](https://www.acmicpc.net/problem/16198)
 * [백준9663. N-Queen](https://www.acmicpc.net/problem/9663)
+* [백준2580. 스도쿠](https://www.acmicpc.net/problem/2580)
 ##### 비트마스크
 * [백준11723. 집합](https://www.acmicpc.net/problem/11723)
 * [백준1182. 부분수열의 합](https://www.acmicpc.net/problem/1182)
