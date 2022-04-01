@@ -149,6 +149,7 @@
 * [백준12886. 돌 그룹](https://www.acmicpc.net/problem/12886)
 * [백준2206. 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 * [백준16946. 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
+* [백준14442. 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
 ### 트리
 * [백준1991. 트리 순회](https://www.acmicpc.net/problem/1991)
 * [백준2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
