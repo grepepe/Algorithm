@@ -151,6 +151,7 @@
 * [백준16946. 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
 * [백준14442. 벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
 * [백준16933. 벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
+* [백준16954. 움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)
 ### 트리
 * [백준1991. 트리 순회](https://www.acmicpc.net/problem/1991)
 * [백준2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
