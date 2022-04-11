@@ -13,39 +13,56 @@ public class Baekjoon14395 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         long s = Long.parseLong(st.nextToken());
         long t = Long.parseLong(st.nextToken());
-        Queue<Pair> q = new LinkedList<>();
-        Set<Long> visit = new HashSet<>();
         String ans = "-1";
 
-        visit.add(s);
-        q.offer(new Pair(s, ""));
-        visit.add(1L);
-        q.offer(new Pair(1, "/"));
+        if (s == t) {
+            ans = "0";
+        } else {
+            Queue<Pair> q = new LinkedList<>();
+            Set<Long> visit = new HashSet<>();
+            long tmpNum;
 
-        while (!q.isEmpty()) {
-
-            Pair tmp = q.poll();
-
-            if (tmp.num == t) {
-                ans = tmp.op;
-                break;
+            tmpNum = s * s;
+            if (tmpNum > 0 && tmpNum <= t) {
+                visit.add(tmpNum);
+                q.offer(new Pair(tmpNum, "*"));
             }
 
-            long tmpNum = tmp.num * tmp.num;
-
-            if (tmpNum < 1000000001L && tmpNum > 0 && !visit.contains(tmpNum)) {
+            tmpNum = s + s;
+            if (tmpNum > 0 && tmpNum <= t) {
                 visit.add(tmpNum);
-                q.offer(new Pair(tmpNum, tmp.op + "*"));
+                q.offer(new Pair(tmpNum, "+"));
             }
 
-            tmpNum = tmp.num + tmp.num;
+            visit.add(1L);
+            q.offer(new Pair(1L, "/"));
 
-            if (tmpNum < 1000000001L && tmpNum > 0 && !visit.contains(tmpNum)) {
-                visit.add(tmpNum);
-                q.offer(new Pair(tmpNum, tmp.op + "+"));
+            while (!q.isEmpty()) {
+
+                Pair tmp = q.poll();
+
+                if (tmp.num == t) {
+                    ans = tmp.op;
+                    break;
+                }
+
+                tmpNum = tmp.num * tmp.num;
+
+                if (tmpNum > 0 && tmpNum <= t && !visit.contains(tmpNum)) {
+                    visit.add(tmpNum);
+                    q.offer(new Pair(tmpNum, tmp.op + "*"));
+                }
+
+                tmpNum = tmp.num + tmp.num;
+
+                if (tmpNum > 0 && tmpNum <= t && !visit.contains(tmpNum)) {
+                    visit.add(tmpNum);
+                    q.offer(new Pair(tmpNum, tmp.op + "+"));
+                }
             }
         }
-        System.out.print(ans.equals("") ? 0 : ans);
+
+        System.out.print(ans);
     }
 
     private static class Pair {
