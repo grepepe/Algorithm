@@ -164,3 +164,5 @@
 * [백준11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
 * [백준1167. 트리의 지름](https://www.acmicpc.net/problem/1167)
 * [백준1967. 트리의 지름](https://www.acmicpc.net/problem/1967)
+### 그리디 알고리즘
+* [백준11047. 동전 0](https://www.acmicpc.net/problem/11047)
