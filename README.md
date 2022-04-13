@@ -167,3 +167,4 @@
 ### 그리디 알고리즘
 * [백준11047. 동전 0](https://www.acmicpc.net/problem/11047)
 * [백준1931. 회의실 배정](https://www.acmicpc.net/problem/1931)
+* [백준11399. ATM](https://www.acmicpc.net/problem/11399)
