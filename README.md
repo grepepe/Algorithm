@@ -169,3 +169,4 @@
 * [백준1931. 회의실 배정](https://www.acmicpc.net/problem/1931)
 * [백준11399. ATM](https://www.acmicpc.net/problem/11399)
 * [백준1080. 행렬](https://www.acmicpc.net/problem/1080)
+* [백준2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)
