@@ -170,3 +170,4 @@
 * [백준11399. ATM](https://www.acmicpc.net/problem/11399)
 * [백준1080. 행렬](https://www.acmicpc.net/problem/1080)
 * [백준2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)
+* [백준1285. 동전 뒤집기](https://www.acmicpc.net/problem/1285)
