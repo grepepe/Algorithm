@@ -171,3 +171,4 @@
 * [백준1080. 행렬](https://www.acmicpc.net/problem/1080)
 * [백준2138. 전구와 스위치](https://www.acmicpc.net/problem/2138)
 * [백준1285. 동전 뒤집기](https://www.acmicpc.net/problem/1285)
+* [백준1202. 보석 도둑](https://www.acmicpc.net/problem/1202)
