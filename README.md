@@ -173,3 +173,5 @@
 * [백준1285. 동전 뒤집기](https://www.acmicpc.net/problem/1285)
 * [백준1202. 보석 도둑](https://www.acmicpc.net/problem/1202)
 * [백준2109. 순회강연](https://www.acmicpc.net/problem/2109)
+### 이분 탐색
+* [백준12015. 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
