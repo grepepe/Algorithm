@@ -174,5 +174,6 @@
 * [백준1202. 보석 도둑](https://www.acmicpc.net/problem/1202)
 * [백준2109. 순회강연](https://www.acmicpc.net/problem/2109)
 * [백준1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+* [백준1744. 수 묶기](https://www.acmicpc.net/problem/1744)
 ### 이분 탐색
 * [백준12015. 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
