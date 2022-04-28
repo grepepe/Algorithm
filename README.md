@@ -176,5 +176,6 @@
 * [백준1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)
 * [백준1744. 수 묶기](https://www.acmicpc.net/problem/1744)
 * [백준2875. 대회 or 인턴](https://www.acmicpc.net/problem/2875)
+* [백준10610. 30](https://www.acmicpc.net/problem/10610)
 ### 이분 탐색
 * [백준12015. 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
