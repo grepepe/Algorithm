@@ -179,5 +179,6 @@
 * [백준10610. 30](https://www.acmicpc.net/problem/10610)
 * [백준1783. 병든 나이트](https://www.acmicpc.net/problem/1783)
 * [백준12970. AB](https://www.acmicpc.net/problem/12970)
+* [백준12904. A와 B](https://www.acmicpc.net/problem/12904)
 ### 이분 탐색
 * [백준12015. 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
