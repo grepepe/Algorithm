@@ -182,5 +182,6 @@
 * [백준12904. A와 B](https://www.acmicpc.net/problem/12904)
 * [백준1201. NMK](https://www.acmicpc.net/problem/1201)
 * [백준2873. 롤러코스터](https://www.acmicpc.net/problem/2873)
+* [백준12919. A와 B 2](https://www.acmicpc.net/problem/12919)
 ### 이분 탐색
 * [백준12015. 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
