@@ -188,3 +188,4 @@
 ### 분할 정복
 * [백준10815. 숫자 카드](https://www.acmicpc.net/problem/10815)
 * [백준10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)
+* [백준11728. 배열 합치기](https://www.acmicpc.net/problem/11728)
