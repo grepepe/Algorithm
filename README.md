@@ -191,3 +191,4 @@
 * [백준11728. 배열 합치기](https://www.acmicpc.net/problem/11728)
 * [백준1780. 종이의 개수](https://www.acmicpc.net/problem/1780)
 * [백준11729. 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+* [백준2263. 트리의 순회](https://www.acmicpc.net/problem/2263)
