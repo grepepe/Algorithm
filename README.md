@@ -194,3 +194,4 @@
 * [백준2263. 트리의 순회](https://www.acmicpc.net/problem/2263)
 * [백준1074. Z](https://www.acmicpc.net/problem/1074)
 * [백준1891. 사분면](https://www.acmicpc.net/problem/1891)
+* [백준2447. 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
