@@ -195,3 +195,4 @@
 * [백준1074. Z](https://www.acmicpc.net/problem/1074)
 * [백준1891. 사분면](https://www.acmicpc.net/problem/1891)
 * [백준2447. 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
+* [백준2448. 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
