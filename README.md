@@ -197,3 +197,4 @@
 * [백준2447. 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
 * [백준2448. 별 찍기 - 11](https://www.acmicpc.net/problem/2448)
 * [백준1517. 버블 소트](https://www.acmicpc.net/problem/1517)
+* [백준1933. 스카이라인](https://www.acmicpc.net/problem/1933)
