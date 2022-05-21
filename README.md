@@ -199,3 +199,4 @@
 * [백준1517. 버블 소트](https://www.acmicpc.net/problem/1517)
 * [백준1933. 스카이라인](https://www.acmicpc.net/problem/1933)
 * [백준6549. 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
+* [백준2261. 가장 가까운 두 점](https://www.acmicpc.net/problem/2261)
