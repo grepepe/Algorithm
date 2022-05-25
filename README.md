@@ -203,3 +203,4 @@
 ### 정렬
 * [백준2751. 수 정렬하기 2](https://www.acmicpc.net/problem/2751)
 * [백준11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+* [백준11651. 좌표 정렬하기2](https://www.acmicpc.net/problem/11651)
