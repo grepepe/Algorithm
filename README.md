@@ -185,6 +185,7 @@
 * [백준12919. A와 B 2](https://www.acmicpc.net/problem/12919)
 ### 이분 탐색
 * [백준12015. 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
+* [백준1790. 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)
 ### 분할 정복
 * [백준10815. 숫자 카드](https://www.acmicpc.net/problem/10815)
 * [백준10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)
