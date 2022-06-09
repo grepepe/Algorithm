@@ -190,6 +190,7 @@
 * [백준2805. 나무 자르기](https://www.acmicpc.net/problem/2805)
 * [백준2110. 공유기 설치](https://www.acmicpc.net/problem/2110)
 * [백준1939. 중량제한](https://www.acmicpc.net/problem/1939)
+* [백준2022. 사다리](https://www.acmicpc.net/problem/2022)
 ### 분할 정복
 * [백준10815. 숫자 카드](https://www.acmicpc.net/problem/10815)
 * [백준10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)
