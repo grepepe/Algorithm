@@ -193,6 +193,7 @@
 * [백준2022. 사다리](https://www.acmicpc.net/problem/2022)
 * [백준11664. 선분과 점](https://www.acmicpc.net/problem/11664)
 * [백준2343. 기타 레슨](https://www.acmicpc.net/problem/2343)
+* [백준13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)
 ### 분할 정복
 * [백준10815. 숫자 카드](https://www.acmicpc.net/problem/10815)
 * [백준10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)
