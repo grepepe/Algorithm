@@ -197,6 +197,7 @@
 * [백준13397. 구간 나누기 2](https://www.acmicpc.net/problem/13397)
 * [백준1981. 배열에서 이동](https://www.acmicpc.net/problem/1981)
 * [백준1300. K번째 수](https://www.acmicpc.net/problem/1300)
+* [백준1561. 놀이 공원](https://www.acmicpc.net/problem/1561)
 ### 분할 정복
 * [백준10815. 숫자 카드](https://www.acmicpc.net/problem/10815)
 * [백준10816. 숫자 카드 2](https://www.acmicpc.net/problem/10816)
