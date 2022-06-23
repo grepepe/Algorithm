@@ -69,6 +69,7 @@
 * [백준13398. 연속합 2](https://www.acmicpc.net/problem/13398)
 * [백준2133. 타일 채우기](https://www.acmicpc.net/problem/2133)
 * [백준17404. RGB거리 2](https://www.acmicpc.net/problem/17404)
+* [백준12865. 평범한 배낭](https://www.acmicpc.net/problem/12865)
 ### 브루트 포스
 * [백준2309. 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 * [백준3085. 사탕 게임](https://www.acmicpc.net/problem/3085)
