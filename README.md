@@ -84,6 +84,7 @@
 * [백준16917. 양념 반 후라이드 반](https://www.acmicpc.net/problem/16917)
 * [백준16922. 로마 숫자 만들기](https://www.acmicpc.net/problem/16922)
 * [백준16924. 십자가 찾기](https://www.acmicpc.net/problem/16924)
+* [백준16936. 나3곱2](https://www.acmicpc.net/problem/16936)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
