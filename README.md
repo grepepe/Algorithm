@@ -86,6 +86,7 @@
 * [백준16924. 십자가 찾기](https://www.acmicpc.net/problem/16924)
 * [백준16936. 나3곱2](https://www.acmicpc.net/problem/16936)
 * [백준16937. 두 스티커](https://www.acmicpc.net/problem/16937)
+* [백준16938. 캠프 준비](https://www.acmicpc.net/problem/16938)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
