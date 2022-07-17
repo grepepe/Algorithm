@@ -97,6 +97,7 @@
 * [백준2422. 한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)
 * [백준9944. NxM 보드 완주하기](https://www.acmicpc.net/problem/9944)
 * [백준17089. 세 친구](https://www.acmicpc.net/problem/17089)
+* [백준17406. 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
