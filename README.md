@@ -101,6 +101,7 @@
 * [백준17406. 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
 * [백준17070. 파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
 * [백준16638. 괄호 추가하기 2](https://www.acmicpc.net/problem/16638)
+* [백준17085. 십자가 2개 놓기](https://www.acmicpc.net/problem/17085)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
