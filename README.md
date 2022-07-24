@@ -104,6 +104,7 @@
 * [백준17085. 십자가 2개 놓기](https://www.acmicpc.net/problem/17085)
 * [백준16987. 계란으로 계란치기](https://www.acmicpc.net/problem/16987)
 * [백준16988. Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)
+* [백준15684. 사다리 조작](https://www.acmicpc.net/problem/15684)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
