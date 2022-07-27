@@ -106,6 +106,7 @@
 * [백준16988. Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)
 * [백준15684. 사다리 조작](https://www.acmicpc.net/problem/15684)
 * [백준4902. 삼각형의 값](https://www.acmicpc.net/problem/4902)
+* [백준16945. 매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
