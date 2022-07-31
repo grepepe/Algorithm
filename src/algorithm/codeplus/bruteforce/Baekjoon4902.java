@@ -8,7 +8,6 @@ import java.util.StringTokenizer;
 public class Baekjoon4902 {
 
     private static int n;
-    private static int[][] triangle;
     private static int[][] sum;
     private static int ans;
 
@@ -23,7 +22,7 @@ public class Baekjoon4902 {
 
             StringTokenizer st = new StringTokenizer(input);
             n = Integer.parseInt(st.nextToken());
-            triangle = new int[n][2 * n + 1];
+            int[][] triangle = new int[n][2 * n + 1];
             sum = new int[n][2 * n + 1];
 
             for (int i = 0; i < n; i++) {
@@ -48,16 +47,15 @@ public class Baekjoon4902 {
 
             ans = -3000;
 
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
+            for (int row = 0; row < n; row++) {
 
-                    int col = 2 * j + 1;
+                int maxCol = 2 * row + 1;
 
-                    for (int k = 0; k < col; k++) {
-                        getTriangleNum(j, k, i);
-                    }
+                for (int col = 0; col < maxCol; col++) {
+                    getTriangleNum(row, col);
                 }
             }
+
             sb.append(tc++).append(". ").append(ans).append("\n");
 
         }
@@ -66,38 +64,32 @@ public class Baekjoon4902 {
         System.out.print(sb);
     }
 
-    private static void getTriangleNum(int r, int c, int h) {
+    private static void getTriangleNum(int r, int c) {
 
-        int num = triangle[r][c];
+        int tmpSum = 0;
 
         if ((c & 1) == 0) {
-            for (int i = 1; i <= h; i++) {
-                r++;
-                c++;
-                if (r == n || c - i < 0 || c + i > 2 * r + 1) {
-                    return;
+            for (int size = 0; size < n; size++) {
+                if (r + size >= n) {
+                    break;
                 }
-
-                num += sum[r][c + i];
-                if (c - i > 0) {
-                    num -= sum[r][c - i - 1];
+                tmpSum += sum[r + size][c + 2 * size];
+                if (c > 0) {
+                    tmpSum -= sum[r + size][c - 1];
                 }
+                ans = Math.max(ans, tmpSum);
             }
         } else {
-            for (int i = 1; i <= h; i++) {
-                r--;
-                c--;
-                if (r == -1 || c - i < 0 || c + i > 2 * r + 1) {
-                    return;
+            for (int size = 0; size < n; size++) {
+                if (r - size < 0 || 2 * (r - size) < c || c < 2 * size) {
+                    break;
                 }
-
-                num += sum[r][c + i];
-                if (c - i > 0) {
-                    num -= sum[r][c - i - 1];
+                tmpSum += sum[r - size][c];
+                if (c > 2 * size) {
+                    tmpSum -= sum[r - size][c - 2 * size - 1];
                 }
+                ans = Math.max(ans, tmpSum);
             }
         }
-
-        ans = Math.max(ans, num);
     }
 }
