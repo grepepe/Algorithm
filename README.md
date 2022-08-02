@@ -108,6 +108,7 @@
 * [백준4902. 삼각형의 값](https://www.acmicpc.net/problem/4902)
 * [백준16945. 매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)
 * [백준16953. A → B](https://www.acmicpc.net/problem/16953)
+* [백준16985. Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
