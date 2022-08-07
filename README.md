@@ -217,6 +217,7 @@
 * [백준1201. NMK](https://www.acmicpc.net/problem/1201)
 * [백준2873. 롤러코스터](https://www.acmicpc.net/problem/2873)
 * [백준12919. A와 B 2](https://www.acmicpc.net/problem/12919)
+* [백준12931. 두 배 더하기](https://www.acmicpc.net/problem/12931)
 ### 이분 탐색
 * [백준12015. 가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
 * [백준1790. 수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)
