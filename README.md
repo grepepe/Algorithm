@@ -113,6 +113,7 @@
 * [백준17090. 미로 탈출하기](https://www.acmicpc.net/problem/17090)
 * [백준16958. 텔레포트](https://www.acmicpc.net/problem/16958)
 * [백준12908. 텔레포트 3](https://www.acmicpc.net/problem/12908)
+* [백준16957. 체스판 위의 공](https://www.acmicpc.net/problem/16957)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
