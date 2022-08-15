@@ -115,6 +115,7 @@
 * [백준12908. 텔레포트 3](https://www.acmicpc.net/problem/12908)
 * [백준16957. 체스판 위의 공](https://www.acmicpc.net/problem/16957)
 * [백준16971. 배열 B의 값](https://www.acmicpc.net/problem/16971)
+* [백준2003. 수들의 합 2](https://www.acmicpc.net/problem/2003)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
