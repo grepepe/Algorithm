@@ -119,6 +119,7 @@
 * [백준1806. 부분합](https://www.acmicpc.net/problem/1806)
 * [백준1644. 소수의 연속합](https://www.acmicpc.net/problem/1644)
 * [백준1208. 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
+* [백준2143. 두 배열의 합](https://www.acmicpc.net/problem/2143)
 ##### N과 M
 * [백준15649. N과 M (1)](https://www.acmicpc.net/problem/15649)
 * [백준15650. N과 M (2)](https://www.acmicpc.net/problem/15650)
