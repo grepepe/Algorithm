@@ -202,6 +202,7 @@
 * [백준1963. 소수 경로](https://www.acmicpc.net/problem/1963)
 * [백준10026. 적록색약](https://www.acmicpc.net/problem/10026)
 * [백준14395. 4연산](https://www.acmicpc.net/problem/14395)
+* [백준16956. 늑대와 양](https://www.acmicpc.net/problem/16956)
 ### 트리
 * [백준1991. 트리 순회](https://www.acmicpc.net/problem/1991)
 * [백준2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
