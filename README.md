@@ -180,6 +180,7 @@
 * [백준16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)
 * [백준16964. DFS 스페셜 저지](https://www.acmicpc.net/problem/16964)
 * [백준2146. 다리 만들기](https://www.acmicpc.net/problem/2146)
+* [백준9376. 탈옥](https://www.acmicpc.net/problem/9376)
 ### BFS
 * [백준1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)
 * [백준13913. 숨바꼭질 4](https://www.acmicpc.net/problem/13913)
@@ -204,7 +205,6 @@
 * [백준14395. 4연산](https://www.acmicpc.net/problem/14395)
 * [백준16956. 늑대와 양](https://www.acmicpc.net/problem/16956)
 * [백준5014. 스타트링크](https://www.acmicpc.net/problem/5014)
-* [백준9376. 탈옥](https://www.acmicpc.net/problem/9376)
 ### 트리
 * [백준1991. 트리 순회](https://www.acmicpc.net/problem/1991)
 * [백준2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
