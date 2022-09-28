@@ -207,6 +207,7 @@
 * [백준16956. 늑대와 양](https://www.acmicpc.net/problem/16956)
 * [백준5014. 스타트링크](https://www.acmicpc.net/problem/5014)
 * [백준16932. 모양 만들기](https://www.acmicpc.net/problem/16932)
+* [백준1600. 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 ### 트리
 * [백준1991. 트리 순회](https://www.acmicpc.net/problem/1991)
 * [백준2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
